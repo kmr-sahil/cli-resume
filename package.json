@@ -1,0 +1,21 @@
+{
+   "name": "@kmrsahil/cv",
+   "version": "1.0.14",
+   "main": "index.js",
+   "type": "module",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "bin": {
+      "@kmrsahil/cv": "index.js",
+      "cv": "index.js",
+      "@kmrsahil": "index.js"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "description": "",
+   "dependencies": {
+      "chalk": "^5.6.2"
+   }
+}
